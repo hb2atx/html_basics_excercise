@@ -1,0 +1,22 @@
+img {
+  width: 300px;
+  height: 300px;
+  margin-left: 25px;
+ 
+}
+
+.ingredients {
+    margin-left: 100px;
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+.ingredients-list {
+    margin-left: 50px;
+}
+
+.instructions {
+    margin-left: 50px;
+}
